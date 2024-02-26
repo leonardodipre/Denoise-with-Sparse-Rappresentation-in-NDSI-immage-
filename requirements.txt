@@ -1,0 +1,8 @@
+numpy
+Pillow
+matplotlib==3.7
+pywavelets
+opencv-python
+rasterio
+scipy
+scikit-image
